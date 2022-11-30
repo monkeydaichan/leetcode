@@ -1,0 +1,20 @@
+{
+    "eslint.workingDirectories": [
+        "./cloud_functions/line_auth/functions"
+    ],
+    "search.exclude": {
+        "**/.fvm": true,
+        "**/*.mocks.dart": true,
+        "**/*.freezed.dart": true,
+        "**/*.g.dart": true
+    },
+    "editor.formatOnSave": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+    "coverage-gutters.showGutterCoverage": false,
+    "coverage-gutters.showLineCoverage": true
+}

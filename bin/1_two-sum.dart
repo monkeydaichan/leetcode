@@ -1,5 +1,4 @@
 void main() {
-  print("Hello");
   final case1 = [3, 2, 3];
   final sol = Solution();
   print(sol.twoSum(case1, 6));
